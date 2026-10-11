@@ -1,15 +1,26 @@
+Python Practice 🐍
 
-# Python Practice
+About This Repository
 
-This repository contains my Python learning programs.
+This repository contains my daily Python practice programs as I develop my programming skills.
 
-## Topics Covered
-- Basic input and output
+Programs
+
+- "hello.py" – My first Python program.
+- "variables.py" – Practice with Python variables.
+- "if_else.py" – Practice with conditional statements.
+
+Skills I Am Learning
+
+- Python fundamentals
 - Variables and data types
-- If-else conditions
+- Conditional statements
+- Problem-solving
 
-## Goal
-To practice Python consistently and improve
-my programming skills.
-# Python-practice-
-My daily Python learning and practice programs
+My Goal
+
+To practice Python for 30 minutes every day and gradually improve my programming and problem-solving skills.
+
+Progress
+
+I will continue adding new programs as I learn more Python concepts.
